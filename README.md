@@ -20,6 +20,8 @@ Founder and builder of [ChainTax](https://chaintax.co.uk), a live UK crypto-tax 
 
 The system is built around explainability, audit evidence, visible uncertainty, deterministic tax logic, production testing, and professional-review discipline. The production codebase is private.
 
+[Read the public engineering case study](case-studies/chaintax.md)
+
 ### Quantitative research systems
 
 I also build private quantitative research infrastructure focused on predeclared experiments, reproducibility, realistic cost modelling, provenance, preserved negative results, and strict separation between research evidence and execution.
