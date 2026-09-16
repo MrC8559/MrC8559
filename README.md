@@ -12,7 +12,7 @@ Open-source agent-security research focused on a narrow question: when a control
 
 ACV includes decision/effect verification, approval binding and replay checks, explicit failure-posture modelling, redacted evidence bundles, and a version-pinned Codex integration moving into live-host evidence collection.
 
-[View Agent Control Verification](https://github.com/MrC8559/Agent-control-verification)
+[View Agent Control Verification](https://github.com/MrC8559/Agent-control-verification) · [10-minute technical review](https://github.com/MrC8559/Agent-control-verification/blob/main/REVIEWER_GUIDE.md)
 
 ### ChainTax
 
