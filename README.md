@@ -22,9 +22,11 @@ The system is built around explainability, audit evidence, visible uncertainty, 
 
 [Read the public engineering case study](case-studies/chaintax.md)
 
-### Quantitative research systems
+### Northlight
 
-I also build private quantitative research infrastructure focused on predeclared experiments, reproducibility, realistic cost modelling, provenance, preserved negative results, and strict separation between research evidence and execution.
+I also build **Northlight**, a private quantitative research institute focused on predeclared experiments, reproducibility, realistic cost modelling, provenance, preserved negative results, and strict separation between research evidence and execution.
+
+Northlight treats trading as a downstream consequence of successful research rather than the starting assumption. Current work remains research/paper only.
 
 ## Engineering focus
 
